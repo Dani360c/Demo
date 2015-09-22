@@ -17,6 +17,7 @@ public class Githubdemo {
     public static void main(String[] args) {
         System.out.println("TEST 1");
         System.out.println("TEST 2");
+        System.out.println("TEST 3");
     }
     
 }
